@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adeyemi-Authentic</h1>
-<h3 align="center">I am a Data Analyst, Data scientist. I love anything data.</h3>
+<h3 align="center">I am a Data Analyst, Data scientist.ML AND AI Ethusiast .</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d3/88/4c/d3884c7daabe848c2104b608fe5f2f2b.jpg">
 
 
-- 💬 Ask me about **SQL,Excel,Python libaries**
+- 💬 Ask me about **SQL,Excel,Python,Pandas,Numpy,Matplotlib**
 
 - 📫 How to reach me **adey004azeez@gmail.com**
 
