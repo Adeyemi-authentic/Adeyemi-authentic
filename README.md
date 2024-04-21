@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adey004azeez@gmail.com**
 
-- ⚡ Fun fact **I'm always eager to learn new things.I love comedy series**
+- ⚡ Fun fact **I'm always eager to learn new things.Anime lover,scifi and comedy series.I LOVE CHELSEA FC **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
